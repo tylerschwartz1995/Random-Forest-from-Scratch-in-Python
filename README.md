@@ -1,5 +1,5 @@
 # Random-Forest-from-Scratch-in-Python
-Programming random forest from scratch using Python. Team that developed code includes Tyler Schwartz, Maxime Jousset and Lin Lin.
+Programming random forest from scratch using Python.
 
 # Summary
 The goal of this project is to reproduce the Random Forest algorithm from scratch and with the lowest usage of external libraries.
